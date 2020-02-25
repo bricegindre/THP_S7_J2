@@ -5,7 +5,7 @@
 
 ## Comment faire fonctionner ce bin's :
 * Place toi avec ton terminal dans un dossier qui va bien.
-* `git clone https://github.com/thebidixhd/THP_S7_J2
+* `git clone https://github.com/thebidixhd/THP_S7_J2`
 * `cd THP_S7_J2`
 * ouvre le fichier [index.html]dans ton navigateur préféré
 

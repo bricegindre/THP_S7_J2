@@ -1,6 +1,6 @@
 # The Molécules et organismes Project
 
-![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]
+![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
 
 
 ## Comment faire fonctionner ce bin's :
